@@ -12,3 +12,5 @@ If your engine is linked correctly, the engine allows you to display models, pic
 You are then free to organize your gameplay code and logic as you like.
 
 ![Alt text](./screens/showcase_engine_1.png "aleung-c_engine showcase screenshot 1")
+
+For a full games and app made with the engine, see [42Run](https://github.com/aleung-c/42run) and [ParticleSystem](https://github.com/aleung-c/ParticleSystem).
